@@ -28,7 +28,7 @@ const HomePage: React.FC = () => {
                 <p className="text-xl text-gray-600 max-w-3xl mx-auto mb-8">
                   אשמח לענות על כל שאלה ולעזור לך להחליט האם הטיפול שאני מציע מתאים לצרכים שלך.
                 </p>
-                <a href="https://api.whatsapp.com/send?phone=+972522226181" className="bg-sky-500 btn-sky-300 hover:bg-sky-600 text-white font-bold py-3 px-6 rounded transition-colors duration-300">
+                <a href="https://api.whatsapp.com/send?phone=0522226181" className="bg-sky-500 btn-sky-300 hover:bg-sky-600 text-white font-bold py-3 px-6 rounded transition-colors duration-300">
                   צור קשר לתיאום פגישת ייעוץ
                 </a>
               </motion.div>
