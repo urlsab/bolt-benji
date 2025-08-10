@@ -86,9 +86,10 @@ const Footer: React.FC = () => {
         }} />
       </a>
       <a
-        href="https://waze.com/ul?q=מרכז+כלל+יפו+97+ירושלים&navigate=yes"
+        // href="https://waze.com/ul?q=מרכז+כלל+יפו+97+ירושלים&navigate=yes"
+        // href="https://www.waze.com/ul?ll=40.75889500%2C-73.98513100&navigate=yes&zoom=17"
         // href="https://www.waze.com/en/live-map/directions?latlng=31.784271603969675%2C35.21466851234437"
-        // href="https://ul.waze.com/ul?ll=31.78427464%2C35.21468639&navigate=yes&zoom=17&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
+        href="https://ul.waze.com/ul?ll=31.78427464%2C35.21468639&navigate=yes&zoom=17"
         target="_blank"
         rel="noopener noreferrer"
         aria-label="ניווט בוויז"
