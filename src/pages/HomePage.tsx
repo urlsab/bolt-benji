@@ -2,7 +2,7 @@ import React from 'react';
 import Hero from '../components/home/Hero';
 // import Services from '../components/home/Services';
 // import About from '../components/home/About';
-import Testimonials from '../components/home/Testimonials';
+// import Testimonials from '../components/home/Testimonials';
 // import BlogPreview from '../components/home/BlogPreview';
 import FAQ from '../components/home/FAQ';
 import ServicesPage from './ServicesPage';
