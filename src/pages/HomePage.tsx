@@ -15,7 +15,7 @@ const HomePage: React.FC = () => {
       {/* <Services /> */}
       <ServicesPage/>
       {/* <About /> */}
-      <Testimonials />
+      {/* <Testimonials /> */}
       {/* <BlogPreview /> */}
       <FAQ />
       <motion.div

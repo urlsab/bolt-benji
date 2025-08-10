@@ -75,7 +75,7 @@ const ServicesPage: React.FC = () => {
         >
           <h1 className="text-4xl md:text-5xl font-bold mb-6 text-gray-800">השירותים שלי</h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            מגוון רחב של טיפולים פסיכולוגיים מותאמים אישית לצרכים השונים
+            מגוון רחב של טיפולים מותאמים אישית לצרכים השונים
           </p>
         </motion.div>
 

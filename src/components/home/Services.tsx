@@ -67,7 +67,7 @@ const Services: React.FC = () => {
             viewport={{ once: true }}
             transition={{ duration: 0.5, delay: 0.2 }}
           >
-            מגוון רחב של טיפולים פסיכולוגיים מותאמים לצרכים השונים
+            מגוון רחב של טיפולים מותאמים לצרכים השונים
           </motion.p>
         </div>
 
