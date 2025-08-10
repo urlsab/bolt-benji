@@ -60,7 +60,8 @@ const Footer: React.FC = () => {
         </div>
       </div>
       <a
-        href="https://api.whatsapp.com/send?phone=+972522226181"
+        // href="https://api.whatsapp.com/send?phone=+972522226181"
+        href="https://api.whatsapp.com/send?phone=+972504257000"
         target="_blank"
         rel="noopener noreferrer"
         aria-label="צ'אט בוואטסאפ"
@@ -86,7 +87,8 @@ const Footer: React.FC = () => {
         }} />
       </a>
       <a
-        href="https://waze.com/ul?q=יפו+97+ירושלים&navigate=yes"
+        // href="https://waze.com/ul?q=יפו+97+ירושלים&navigate=yes"
+        href="https://waze.com/ul?q=צרעה+3+תל+אביב&navigate=yes"
         target="_blank"
         rel="noopener noreferrer"
         aria-label="ניווט בוויז"
