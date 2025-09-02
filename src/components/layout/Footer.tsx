@@ -3,7 +3,8 @@ import React from 'react';
 import { Phone, Mail, MapPin } from 'lucide-react';
 import logo from '../../benjilogo.png';
 import { FaWhatsapp } from "react-icons/fa";
-import { FaWaze } from "react-icons/fa";
+// import { FaWaze } from "react-icons/fa";
+import wazelogo from '../../wazelogo.jpg';
 
 const Footer: React.FC = () => {
   const currentYear = new Date().getFullYear();
@@ -82,7 +83,8 @@ const Footer: React.FC = () => {
           width: 'clamp(32px, 7vw, 44px)',
           color: 'white',
           backgroundColor: 'green',
-          borderRadius: '50% 50% 50% 40%'
+          borderRadius: '50% 50% 50% 40%',
+          border:'3px solid green'
         }} />
       </a>
       <a
@@ -103,13 +105,15 @@ const Footer: React.FC = () => {
         onMouseOver={e => (e.currentTarget.style.transform = 'scale(1.08)')}
         onMouseOut={e => (e.currentTarget.style.transform = 'scale(1)')}
       >
-        <FaWaze style={{
+        <img 
+        src={wazelogo} alt="Waze Icon" style={{
           height: 'clamp(32px, 7vw, 44px)',
           width: 'clamp(32px, 7vw, 44px)',
           color: 'black',
           backgroundColor: 'white',
           borderColor:'RGB(5, 200, 247)',
-          borderRadius: '40% 40% 40% 40%'
+          borderRadius: '50%',
+          border:'2px solid RGB(5, 200, 247)'
         }} />
       </a>
     </footer>
