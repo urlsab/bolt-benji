@@ -88,7 +88,7 @@ const Footer: React.FC = () => {
         }} />
       </a>
       <a
-        href="https://waze.com/ul?q=יפו+97+ירושלים&navigate=yes"
+        href="https://waze.com/ul?q=בנין+כלל+יפו+97+ירושלים&navigate=yes"
         target="_blank"
         rel="noopener noreferrer"
         aria-label="ניווט בוויז"
